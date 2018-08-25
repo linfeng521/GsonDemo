@@ -13,17 +13,17 @@
 **标记重点内容**
 ***这是斜体吧***
 *这个呢*
-#h1
-##h2
-###h3
+# h1
+## h2
+### h3
 
 ####h4
 hello world
-#无序列表吧
+# 无序列表吧
 - 香蕉
 - 水果
 - 柿子
-#有序列表
+# 有序列表
 1 水果
 2 香蕉
 3 奶油
@@ -35,21 +35,21 @@ hello world
 这端就不是引用内容了啦
 
 | 左对齐标题 | 右对齐标题 | 居中对齐标题 |
-| :------| ------: | :------: |
+|:------|------:|:------:|
 | 短文本 | 中等文本 | 稍微长一点的文本 |
 | 稍微长一点的文本 | 短文本 | 中等文本 |
  foo|bar|aini
  
- dog | bird | cat 居中
-				----|:------:|----
-				foo | foo  | foo
-				bar | bar  | bar
-				baz | baz  | baz
-				
-dog | bird | cat 居中
+ dog | bfengird | cat
 ----|:------:|----
-				foo | foo  | foo
-				bar | bar  | bar
+foo | foo  | foo
+bar | bar  | bar
+az | baz  | baz
+				
+dog | bird | catin3 居中
+----|:------:|----
+foo | foo  | foo
+bar | bar  | bar
 				baz | baz  | baz
 			
 dog | bird | cat 居中
